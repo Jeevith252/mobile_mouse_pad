@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# React Native / Expo
+mobile_app/touchpad_app/node_modules/
+mobile_app/touchpad_app/.expo/
+mobile_app/touchpad_app/dist/
+mobile_app/touchpad_app/build/
+
+# VS Code
+.vscode/
